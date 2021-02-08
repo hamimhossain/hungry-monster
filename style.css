@@ -1,0 +1,12 @@
+.search-box{
+    text-align: center;
+    padding: 70px;
+}
+.search-box input{
+    height: 50px;
+    width: 200px;
+}
+.btn{
+    height: 100x;
+    width: 50px;
+}
